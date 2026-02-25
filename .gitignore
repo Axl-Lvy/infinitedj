@@ -34,3 +34,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Resources ###
+clips/
+
+### Claude ###
+.claude/
