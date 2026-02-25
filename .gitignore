@@ -39,4 +39,4 @@ out/
 clips/
 
 ### Claude ###
-.claude/
+.claude/settings.local.json
